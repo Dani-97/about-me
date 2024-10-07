@@ -1,5 +1,7 @@
 # About me
 
+<img src="laptop-2560085_1280.jpg" alt="Research image" width="400"/>
+
 - I have been working in Deep Learning and Machine Learning applied to imaging data (chest X-rays and eye fundus imaging) and also to tabular data.
 
 - The main aim of my work was to tackle the problem of data scarcity (i.e., domains where the amount of manually labeled data is scarce).
