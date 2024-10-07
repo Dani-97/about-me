@@ -1,6 +1,6 @@
 # About me
 
-<img src="laptop-2560085_1280.jpg" alt="Research image" width="400"/>
+<img src="laptop-2560085_1280.jpg" alt="Research image" width="500"/>
 
 - I have been working in Deep Learning and Machine Learning applied to imaging data (chest X-rays and eye fundus imaging) and also to tabular data.
 
@@ -58,7 +58,7 @@ Olañeta, D., **Morís, D. I.**, de Moura, J., Marcos, P. J., Rey, E. M., Novo, 
 
 [[Paper](https://doi.org/10.1016/j.procs.2023.10.008)]
 
-> This article was presented in the KES 2023 conference. In this case, only clinical data was used. The aim was to provide an explainable framework for the task of outcome estimation in COVID-19 patients, estimating two different scenarios: estimation of the risk of hospitalization and estimation of the risk of death. The explainability was provided by the means of a decision tree, that brings a set of rules that let clinicians not only to evaluate the risk of a patient, but also to understand the reasoning behind that estimation.
+> This article was presented in the KES 2023 conference. In this case, only tabular data were used. The aim was to provide an explainable framework for the task of outcome estimation in COVID-19 patients, with two different scenarios: risk of hospitalization and risk of death. The explainability was provided by the means of a decision tree, that brings a set of rules that let clinicians not only to evaluate the risk of a patient, but also to understand the reasoning behind that estimation.
 
 **Morís, D. I.**, de Moura, J., Marcos, P. J., Rey, E. M., Novo, J., & Ortega, M. (2023). Comprehensive analysis of clinical data for COVID-19 outcome estimation with machine learning models. Biomedical Signal Processing and Control (Vol. 84, p. 104818)
 
