@@ -2,6 +2,8 @@
 
 - I have been working in Deep Learning and Machine Learning applied to imaging data (chest X-rays and eye fundus imaging) and also to tabular data.
 
+- The main aim of my work was to tackle the problem of data scarcity (i.e., domains where the amount of manually labeled data is scarce).
+
 - The pathological scenarios that I have worked with were COVID-19, tuberculosis and lung nodules. When I worked with eye fundus images, I did not work with any specific pathology.
 
 - Regarding the imaging data that I used, it was chest X-ray and retinography.
@@ -10,7 +12,7 @@
 
 - I have worked with the self-supervised paradigm of Context Encoding.
   
-- A great part of my works are aimed to adapt image generation algorithms in the field of medical imaging. Particularly, I used different types of GANs and latent diffusion models.
+- A great part of my works are aimed to adapt image generation algorithms in the field of medical imaging. Particularly, I used different types of GANs for image translation (CycleGAN and Contrastive Unpaired Translation) and latent diffusion models (Stable Diffusion).
 
 Now, I provide an individual and summarized description of each paper that I have published.
 
